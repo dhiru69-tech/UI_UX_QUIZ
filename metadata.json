@@ -1,0 +1,6 @@
+{
+  "name": "UI/UX Mastery Quiz",
+  "description": "Comprehensive interactive assessment platform covering UI/UX Design Fundamentals, UX Laws, Accessibility, Usability Testing, and Interview Case Studies.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
